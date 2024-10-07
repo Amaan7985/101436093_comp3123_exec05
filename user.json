@@ -1,0 +1,24 @@
+{
+    "id":1,
+    "name":"Mohammad Amaan Vohra",
+    "username":"aav",
+    "password":"amaan123",
+    "email":"mohammadamaanvohra@gmail.com",
+    "address":{
+       "street":"Gilgorm Rd",
+       "suite":"81",
+       "city":"Brampton",
+       "zipcode":"L6X 4P5",
+       "geo":{
+          "lat":"-37.3159",
+          "lng":"81.1496"
+       }
+    },
+    "phone":"647-868-3705",
+    "website":"helloworld.org",
+    "company":{
+       "name":"Romaguera-Crona",
+       "catchPhrase":"Multi-layered client-server neural-net",
+       "bs":"harness real-time e-markets"
+    }
+ }
